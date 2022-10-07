@@ -1,0 +1,40 @@
+.github {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dom {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.finkod {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.ramverk {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+img {
+    border:3px solid #75b9e9;
+    border-radius: 8px;
+}
+
+img:hover {
+    box-shadow: 0 0 4px 6px #000000;
+}
+
+body {
+    font-size: larger;
+    text-indent: 30px;
+  text-align: justify;
+  letter-spacing: 1px;
+  margin: 0 10% 0 10%;
+}
